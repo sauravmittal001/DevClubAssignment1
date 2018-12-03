@@ -1,0 +1,3 @@
+Dev Club is a place where we develop software which is not possible for one person to complete on his own but requires a team. We solve real-life problems by using softwares. It is a community where we learn and it is a lot of fun doing so!!
+
+We learn many things here from basics of Git to working on Android Development. With a large ccommmunity we are able to solve real life problems in a collaborative manner.
